@@ -1,10 +1,10 @@
 # List of Publications
 
-This document contains a chronological list of all my publications. BibTeX style references for all publications are available at [references.bib](references.bib). 
+This document contains a chronological list of all my publications. BibTeX style references are available at [references.bib](references.bib). 
 
 If you have any questions about my work, please get in touch via [email](mailto:kris.nikov@bris.ac.uk).
 
-**K. Nikov, J. L. Nunez-Yanez and M. Horsnell, "Evaluation of Hybrid Run-Time Power Models for the ARM Big.LITTLE Architecture," 2015 IEEE 13th International Conference on Embedded and Ubiquitous Computing, Porto, 2015, pp. 205-210, DOI: 10.1109/EUC.2015.32. [**IEEE**](https://ieeexplore.ieee.org/abstract/document/7363640) [**arXiv**](TBA) [**BibTeX ID - _nikov2015evaluation_**](references.bib)**
+**K. Nikov, J. L. Nunez-Yanez and M. Horsnell, "Evaluation of Hybrid Run-Time Power Models for the ARM Big.LITTLE Architecture," 2015 IEEE 13th International Conference on Embedded and Ubiquitous Computing, Porto, 2015, pp. 205-210, DOI: 10.1109/EUC.2015.32. [**IEEE**](https://ieeexplore.ieee.org/abstract/document/7363640) [**arXiv(TBA)**]() [**BibTeX ID - _nikov2015evaluation_**](references.bib)**
 
 **Thesis 2018**
 
