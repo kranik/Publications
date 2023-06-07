@@ -4,7 +4,7 @@ This document contains a chronological list of all my publications. BibTeX style
 
 **<ins>Nikov K.</ins>, Nunez-Yanez J. and Horsnell M., 2015, "Evaluation of Hybrid Run-Time Power Models for the ARM Big.LITTLE Architecture", _IEEE 13th International Conference on Embedded and Ubiquitous Computing_, pp. 205-210, DOI: 10.1109/EUC.2015.32. [**IEEE**](https://ieeexplore.ieee.org/abstract/document/7363640) [**arXiv**](https://arxiv.org/abs/2008.10604) [**BibTeX ID - _nikov2015evaluation_**](references.bib)**
 
-**<ins>Nikov K.</ins>, 2018, "Power Modelling and Analysis on Heterogeneous Embedded Systems", _Doctoral dissertation_, _University of Bristol_. [**PDF**](https://seis.bristol.ac.uk/~eejlny/downloads/kris_thesis.pdf) [**PDF_2**](https://www.krisnikov.com/assets/KKN_UoB_thesis.pdf) [**BibTeX ID - _nikov2018power_**](references.bib)**
+**<ins>Nikov K.</ins>, 2018, "Power Modelling and Analysis on Heterogeneous Embedded Systems", _Doctoral dissertation_, _University of Bristol_. [**PDF**](https://seis.bristol.ac.uk/~eejlny/downloads/kris_thesis.pdf) [**PDF2**](https://www.krisnikov.com/assets/KKN_UoB_thesis.pdf) [**BibTeX ID - _nikov2018power_**](references.bib)**
 
 **<ins>Nikov K</ins>. and Nunez-Yanez J., 2020, "Intra and Inter-Core Power Modelling for Single-ISA Heterogeneous Processors", _Int. J. Embedded Systems_, Vol. 12, No. 3, pp.324–340, DOI: 10.1504/IJES.2020.107046. [**IEL**](https://www.inderscienceonline.com/doi/abs/10.1504/IJES.2020.107046) [**PDF**](https://seis.bristol.ac.uk/~eejlny/downloads/nikov_power.pdf) [**BibTeX ID - _nikov2020intra_**](references.bib)**
 
